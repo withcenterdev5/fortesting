@@ -1,3 +1,7 @@
+## 1.1.0
+
+* Added some simple functions.
+
 ## 1.0.1
 
 * Added hello world.
