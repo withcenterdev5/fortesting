@@ -1,6 +1,6 @@
 name: fortesting
 description: "Nothing to see here"
-version: 1.0.0
+version: 1.0.1
 homepage: https://github.com/withcenterdev5/fortesting.git
 
 environment:
@@ -17,5 +17,3 @@ dev_dependencies:
   flutter_lints: ^2.0.0
 
 flutter:
-
-
